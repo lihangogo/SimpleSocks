@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "transport_layer_protocol": "tcp",
+  "listen_addr": "127.0.0.1:6333",
+  "key": "",
+  "initialized": false,
+  "need_certification": false,
+  "heart_beat_addr": "114.114.114.114"
+}
